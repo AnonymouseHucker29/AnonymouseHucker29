@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/brentokloy_0429" target="blank"><img src="https://img.shields.io/twitter/follow/brentokloy_0429?logo=twitter&style=for-the-badge" alt="brentokloy_0429" /></a> </p>
 
-- 🔭 I’m currently working on [MedGo](https://github.com/AnonymouseHucker29/Medcom)
+- 🔭 I’m currently working on [MedGo](https://github.com/AnonymouseHucker29/Medcom) and [Dating App] (https://github.com/AnonymouseHucker29/DatingApp)
 
 - 🌱 I’m currently learning **ReactJs, Angular, Kotlin, C#**
 
