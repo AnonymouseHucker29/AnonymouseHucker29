@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/brentokloy_0429" target="blank"><img src="https://img.shields.io/twitter/follow/brentokloy_0429?logo=twitter&style=for-the-badge" alt="brentokloy_0429" /></a> </p>
 
-- 🔭 I’m currently working on [MedGo](https://github.com/AnonymouseHucker29/Medcom) and [Dating App](https://github.com/AnonymouseHucker29/DatingApp)
+- 🔭 I’m currently working on [InfoWeather](https://github.com/AnonymouseHucker29/InfoWeather)
 
-- 🌱 I’m currently learning **ReactJs, Angular, Kotlin, C#**
+- 🌱 I’m currently learning **ReactJs, NodeJs, Angular, Kotlin, C#**
 
 - 👯 I’m looking to collaborate on **small projects**
 
 - 🤝 I’m looking for help with **android development**
 
-- 💬 Ask me about **C++, HTML, CSS, PHP, Java**
+- 💬 Ask me about **C++, HTML, CSS, Kotlin, Javascript**
 
 - 📫 How to reach me **brentokloy@protonmail.com**
 
