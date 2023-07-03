@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymousehucker29&label=Profile%20views&color=0e75b6&style=flat" alt="anonymousehucker29" /></p>
 
-<p align=right><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymousehucker29&show_icons=true&locale=en&layout=compact&theme=gotham" alt="anonymousehucker29" /></p>
+<p align=right><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymousehucker29&show_icons=true&locale=en&layout=compact&theme=gotham" alt="anonymousehucker29" /></p>
 
 - 🔭 I’m currently working on [InfoWeather for Facebook](https://github.com/AnonymouseHucker29/InfoWeather) and [InfoWeather for Discord](https://github.com/AnonymouseHucker29/InfoWeather-for-Discord)
 
