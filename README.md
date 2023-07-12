@@ -19,9 +19,9 @@
 
 <p align=right><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymousehucker29&show_icons=true&locale=en&layout=compact&theme=gotham" alt="anonymousehucker29" /></p>
 
-- 🔭 I’m currently working on [InfoWeather for Facebook](https://github.com/AnonymouseHucker29/InfoWeather) and [InfoWeather for Discord](https://github.com/AnonymouseHucker29/InfoWeather-for-Discord)
+- 🔭 I’m currently working on [InfoWeather](https://github.com/AnonymouseHucker29/InfoWeather) and [ChatMe](https://github.com/AnonymouseHucker29/ChatMe)
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, NextJS, Angular, Kotlin**
+- 🌱 I’m currently learning **ReactJs, NodeJs, NextJS, Kotlin**
 
 - 👯 I’m looking to collaborate on **small projects**
 
