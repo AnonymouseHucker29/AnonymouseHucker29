@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on **small projects**
 
-- 💬 Ask me about **C++, HTML, CSS, Kotlin, Javascript**
+- 💬 Ask me about **C++, HTML, CSS, Javascript**
 
 - 📫 Contact me at: **brentokloy@protonmail.com**
 
