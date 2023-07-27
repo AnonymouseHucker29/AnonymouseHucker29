@@ -13,7 +13,7 @@
 
 <hr>
 
-<p align="center"> <a href="https://github.com/anonymousehucker29/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymousehucker29&theme=darkhub&row=2&column=3&no-frame=true" alt="anonymousehucker29" /></a> </p>
+<p align="center"> <a href="https://github.com/anonymousehucker29/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymousehucker29&theme=transparent&row=2&column=3&no-frame=true" alt="anonymousehucker29" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymousehucker29&label=Profile%20views&color=0e75b6&style=flat" alt="anonymousehucker29" /></p>
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymousehucker29&show_icons=true&locale=en&theme=transparent&rank_icon=github&include_all_commits=true&card_width=495" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymousehucker29&theme=gotham" alt="anonymousehucker29" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymousehucker29&theme=transparent" alt="anonymousehucker29" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AnonymouseHucker29&theme=transparent" alt="anonymousehucker29" /></p>
